@@ -1,0 +1,28 @@
+name: Siebe
+favicon: null
+layout_spectrum: 0.5143262085039169
+typography_spectrum: 0.13505390449427068
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7344996212050319
+  lightness: 0.5026215664111078
+  saturation: 0.38367007160559297
+  rhythmicContrast: 0.8870890892576426
+purpose: []
