@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[TRAVEL, DOCUMENTARY, STORYTELLING, SAILING]]></title>
         <description><![CDATA[TRAVEL, DOCUMENTARY, STORYTELLING, SAILING]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/siebe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 15:08:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 15:12:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/siebe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MSD Nederland film]]></title>
+            <description><![CDATA[<article><h1>MSD Nederland film</h1><p>De afgelopen jaren heb ik verschillende films gemaakt voor MSD. Over allerlei zaken, producten en diensten. Samen met Wytse Koetse maakte ik de promotiefilm voor MSD Nederland. Wat betekent gezondheid, en hoe draagt MSD daar aan bij? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25f65bbc0b3095ccc422bb24091691c18c7a7a71.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=u8YZX5sOpJ0</link>
+            <guid isPermaLink="false">68bba46d-a558-4d86-8ba2-60fb29763264</guid>
+            <pubDate>Sat, 16 Jan 2016 15:12:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Marina de Lagos - Official promotional video]]></title>
             <description><![CDATA[<article><h1>Marina de Lagos - Official promotional video</h1><p>Uploaded by CanalGrupoMSF on 2015-07-03.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77f2daa20dbd2b5f8dbfa2a6dd2fd811d44a560e.jpg"></article>]]></description>
