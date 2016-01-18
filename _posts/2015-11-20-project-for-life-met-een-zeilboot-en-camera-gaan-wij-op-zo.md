@@ -6,8 +6,8 @@ inLanguage: nl
 starred: false
 keywords: []
 description: 'Wij zijn Jo-Ann en Siebe, twee dertigers uit Haarlem. Wij zeilen door Europa, op zoek naar verhalen. Om te onszelf inspireren, te motiveren, en om een stem te geven aan al die lokale helden met een prachtig verhaal. Jong geleerd... Siebe leerde als jongetje zeilen in de Biesbosch, in de zeilboot die zijn vader zelf gebouwd had.'
-datePublished: '2016-01-16T15:10:27.119Z'
-dateModified: '2016-01-16T15:10:21.698Z'
+datePublished: '2016-01-18T20:32:40.989Z'
+dateModified: '2016-01-16T15:12:12.337Z'
 author: []
 related: []
 app_links: []
