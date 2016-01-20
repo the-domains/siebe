@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/81591689'
 inLanguage: nl
-starred: true
+starred: false
 keywords: []
 description: "Al sinds Griekse kooplieden meer dan 2000 jaar geleden wijn maken introduceerden is de Corbières regio onlosmakelijk verbonden met wijnbouw. De monniken ontwikkelden de technieken verder in de 12e eeuw en bleken daar zeer succesvol in. Het hele domein waar Château de Caraguilhes deel van uitmaakt beslaat zo'n 600 ha."
-datePublished: '2016-01-16T15:14:26.545Z'
-dateModified: '2015-11-21T10:02:13.786Z'
+datePublished: '2016-01-20T19:05:25.654Z'
+dateModified: '2016-01-18T20:37:20.565Z'
 author:
   - name: Siebe
     url: 'http://vimeo.com/siebe'
