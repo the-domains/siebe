@@ -6,8 +6,8 @@ inLanguage: nl
 starred: false
 keywords: []
 description: 'Wij zijn Jo-Ann en Siebe, twee dertigers uit Haarlem. Wij zeilen door Europa, op zoek naar verhalen. Om te onszelf inspireren, te motiveren, en om een stem te geven aan al die lokale helden met een prachtig verhaal. Jong geleerd... Siebe leerde als jongetje zeilen in de Biesbosch, in de zeilboot die zijn vader zelf gebouwd had.'
-datePublished: '2016-01-18T20:32:42.532Z'
-dateModified: '2016-01-16T15:12:12.337Z'
+datePublished: '2016-01-20T19:08:17.150Z'
+dateModified: '2016-01-20T19:08:13.732Z'
 author: []
 related: []
 app_links: []
@@ -26,3 +26,11 @@ _type: MediaObject
 
 ---
 <article style=""><h1>Project For Life - Met een zeilboot en camera gaan wij op zoek naar inspirerende verhalen van bijzondere mensen. Ga je met ons mee?</h1><p>Wij zijn Jo-Ann en Siebe, twee dertigers uit Haarlem. Wij zeilen door Europa, op zoek naar verhalen. Om te onszelf inspireren, te motiveren, en om een stem te geven aan al die lokale helden met een prachtig verhaal. Jong geleerd... Siebe leerde als jongetje zeilen in de Biesbosch, in de zeilboot die zijn vader zelf gebouwd had.</p><img src="http://www.projectforlife.nl/wp-content/uploads/2013/03/logo-project-for-life.png" /></article>
+
+**Met onze zeilboot en filmcamera gaan we op zoek naar inspirerende mensen. Die zich inzetten voor een betere wereld.**
+
+We laten jou -- via korte (film)reportages -- kennismaken met bijzondere mensen en bijzondere projecten. Of het nu gaat om de opvang van zeeschildpadden, duurzame visserij of een surfer, gewoon, omdat hij leeft. Inspirerende verhalen, van mensen die hun passie volgen. Die doen.
+
+**Het verschil maken**
+
+We brengen mensen in beeld die zich met overtuiging inzetten voor een mooiere wereld. Mensen die niet denken: ik doe maar niets, want het is toch een druppel op een gloeiende plaat. Mensen die op hun manier het verschil maken. Hoe doen ze dat? Waarom? Hoe staan ze in het leven?
