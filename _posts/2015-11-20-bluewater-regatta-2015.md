@@ -17,7 +17,7 @@ keywords:
   - snowflake
   - alo
 description: "The regatta, organized by Bluewater Algarve, is a three day competition for all nationalities who share a love of sailing. And so do we! We're very happy to had the opportunity to cover this event. Lots of fun being on the water and get al the action."
-datePublished: '2016-01-25T15:19:22.035Z'
+datePublished: '2016-01-25T15:19:22.056Z'
 dateModified: '2016-01-25T15:15:58.719Z'
 author:
   - name: Project for Life
