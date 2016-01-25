@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=LdoHH40WqC0'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - regatta
@@ -17,8 +17,8 @@ keywords:
   - snowflake
   - alo
 description: "The regatta, organized by Bluewater Algarve, is a three day competition for all nationalities who share a love of sailing. And so do we! We're very happy to had the opportunity to cover this event. Lots of fun being on the water and get al the action."
-datePublished: '2016-01-25T15:15:41.711Z'
-dateModified: '2015-11-20T13:42:04.370Z'
+datePublished: '2016-01-25T15:19:22.035Z'
+dateModified: '2016-01-25T15:15:58.719Z'
 author:
   - name: Project for Life
     url: 'https://www.youtube.com/channel/UC-Drjsj5IPpIrXTcMnv9eTQ'
